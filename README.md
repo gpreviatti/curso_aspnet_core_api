@@ -18,7 +18,9 @@ Passo a Passo para adicionar novas funcionalidade
 > 3 - Fazer Migrações
 > 4 - Atualizar o Banco de Dados
 > 5 - Implementations (Implementação da Classe BaseEntity)
+
 >> 5.1 - Api.Domain.Repository
+
 >> 5.2 - Api.Data.Implementations
 
 ## Data.Test
